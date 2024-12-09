@@ -7,8 +7,7 @@ ____
 
 ###  ***(28.11.2024)*** KEKS-VALIDATOR started testing the network as a validator 
 
-- [PERSISTENCE](https://www.mintscan.io/persistence-testnet/validators/persistencevaloper1xl0g3krmunjpxfytzemr2nfyr9flmvjnxzfecc)
--
+- [PERSISTENCE]
 -
 
 
