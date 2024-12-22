@@ -9,5 +9,5 @@ ____
 
 - [PERSISTENCE]
 
-### ***(13.12.2024)*** launch validator KEKS-VALIDATOR 
+### ***(13.12.2024)*** launch KEKS-VALIDATOR 
 - №1 [JUNO](https://www.mintscan.io/juno/validators/junovaloper1200yhj9ptjv78huj804z5lwz7kahhd458pmqdr)
